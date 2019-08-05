@@ -1,0 +1,126 @@
+/*---mid-bg----*/
+.mid-bg {
+  background: url("images/182528.jpg") no-repeat 0px 0px;
+  background-size: cover;
+  -o-background-size: cover;
+  -moz-background-size: cover;
+  -ms-background-size: cover;
+  -webkit-background-size: cover;
+    min-height: 500px;
+}
+.mid-section{
+  padding-top: 10em;
+  text-align:center;
+}
+.mid-section h3{
+  color:#fff200;
+  font-size: 3em;
+  font-weight:400;
+    font-family: 'Arvo', serif;
+}
+.mid-section h4 {
+  color:#003b64;
+  font-size:2em;
+  font-weight: 400;
+  margin: 0.7em 0;
+}
+.mid-section p {
+   color: #fff;
+  font-weight: 400;
+  font-size: 0.9em;
+  margin: 0.5em auto;
+  line-height: 1.7em;
+  width: 61%
+}
+.mid-bg {
+    background: url("images/182528.jpg") no-repeat 0px 0px;
+    background-size: cover;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    -ms-background-size: cover;
+    -webkit-background-size: cover;
+    min-height: 473px;
+  }
+
+.mid-bg {
+    background: url("images/182528.jpg") no-repeat 0px 0px;
+    background-size: cover;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    -ms-background-size: cover;
+    -webkit-background-size: cover;
+   min-height: 338px;
+  }
+.mid-bg {
+    background: url("images/182528.jpg") no-repeat 0px 0px;
+    background-size: cover;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    -ms-background-size: cover;
+    -webkit-background-size: cover;
+    min-height: 328px;
+  }
+
+  .mid-bg {
+    background: url("images/182528.jpg") no-repeat 0px 0px;
+    background-size: cover;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    -ms-background-size: cover;
+    -webkit-background-size: cover;
+    min-height:182px;
+  }
+  .mid-section h3 {  
+  font-size: 2.7em;
+    }
+  .mid-section h4 {
+    color: #003b64;
+    font-size: 1.8em;
+    margin: 0.5em 0;
+  }
+  .mid-section {
+    padding-top: 6em;
+    }
+    .mid-section p {
+    font-size: 0.85em;
+    margin: 0.5em auto;
+    line-height: 1.7em;
+    width: 80%;
+  }
+  .mid-section h4 {
+    font-size: 1.5em;
+    margin: 0.5em 0;
+  }
+  .mid-section h3 {
+    font-size: 2em;
+  }
+    .mid-section h3 {
+    font-size: 2.5em;
+  }
+  .mid-section p {
+    font-size: 0.85em;
+    margin: 0.5em auto;
+    line-height: 1.7em;
+    width: 94%;
+  }
+  .mid-section {
+    padding-top: 5em;
+  }
+  .mid-section p {
+    font-size: 0.8em;
+    margin: 0.3em auto;
+    width: 100%;
+  }
+    .mid-section h3 {
+    font-size: 2em;
+  }
+  .mid-section h4 {
+    font-size: 0.9em;
+    margin: 0.3em 0;
+  }
+  .mid-section h3 {
+    font-size: 1.5em;
+  }
+  .mid-section {
+    padding-top:1em;
+  }

@@ -1,0 +1,103 @@
+/*-- about-bottom --*/
+@charset "UTF-8";
+
+.about-bottom{
+  background: url(../images/a2.jpg) no-repeat;
+  background-size: cover;
+  padding:4em 0;
+}
+.about-bottom h3{
+	color: #FFF;
+	font-size: 40px;
+	font-weight: 300;
+	margin: 0;
+}
+.about-bottom-grids {
+  margin-top: 4em;
+}
+.about-bottom-left {
+  padding-left: 0;
+}
+.about-bottom-left h4{
+	color: #FFF;
+	font-size: 26px;
+	font-weight: 700;
+	margin: 0;
+}
+.about-bottom-left p{
+  color: #FFFFFF;
+  font-size: 14px;
+  margin: 2em 0 0 0;
+  line-height: 1.8em;
+  font-weight: 400;
+}
+.about-bottom-left p span{
+	display:block;
+	margin:2em 0;
+}
+.about-bottom-right{
+	padding-right:0;
+}
+.about-bottom-right {
+	margin-top: 4em;
+}
+
+.about-bottom h3 {
+	font-size: 34px;
+}
+.about-bottom-grids {
+	margin-top: 2em;
+}
+.about-bottom {
+	padding: 2em 0;
+}
+.about-bottom h3 {
+	font-size: 26px;
+}
+.about-bottom-left h4 {
+	font-size: 20px;
+	font-weight: 400;
+}
+.about-bottom-grids {
+	margin-top: 1em;
+}
+.about-bottom-left p span {
+	margin: 1em 0;
+	text-align: left;
+}
+.about-bottom-right {
+	margin-top: 2em;
+}
+.about-bottom-left p {
+	font-size: 13px;
+}
+
+.animated {
+  -webkit-animation-duration: 1s;
+  animation-duration: 1s;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+}
+
+.fadeInRight {
+  -webkit-animation-name: fadeInRight;
+  animation-name: fadeInRight;
+}
+
+.fadeInLeft {
+  -webkit-animation-name: fadeInLeft;
+  animation-name: fadeInLeft;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
